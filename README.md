@@ -1,6 +1,6 @@
 # Programming-for-Data-Science-assignments
 
-These files are short algorithms that I implemented for my Programming for Data Science module during my degree. Unfortunately I cannot share the questions I am actually answering in these assignemnts for plagiarism reasons, but I hope this demonstrates my abilities well enough without it.
+These files are short algorithms that I implemented for my Programming for Data Science module during my degree. Unfortunately I cannot share the questions I am actually answering in these assignments for copyright reasons, but I believe this demonstrates my abilities well enough without it.
 
 Assignment 1 focusses on simple sorting algorithms
 
